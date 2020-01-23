@@ -1,0 +1,22 @@
+{
+  "name": "greatguessinggame",
+  "version": "1.0.0",
+  "description": "An RGB guessing game created using HTML, CSS, and JavaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneupan1/The-Guessing-Game.git"
+  },
+  "author": "Saurav Neupane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneupan1/The-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/sneupan1/The-Guessing-Game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
